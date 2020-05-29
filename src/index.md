@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Computers: Not Bad."
+title: "Computers: Pretty Good. Not Bad."
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest Posts
