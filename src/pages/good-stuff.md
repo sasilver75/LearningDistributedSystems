@@ -43,6 +43,7 @@ I thought it would be useful to have a singular place to collate recommendations
 * [Backendology Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
 * [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [Aphyr's Distributed Systems Syllabus](https://github.com/aphyr/distsys-class)
+* [Quora: Seminal DS Papers](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
 
 ## **Papers**
 
