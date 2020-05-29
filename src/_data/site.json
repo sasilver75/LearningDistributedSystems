@@ -1,7 +1,7 @@
 {
   "showThemeCredit": false,
   "name": "Learning Distributed Systems",
-  "shortDesc": "This site is powered by Hylia, created by the awesome Andy Bell, and 11ty, which makes this easier than it should be.",
+  "shortDesc": "This site is powered by Hylia, created by the awesome Andy Bell, and 11ty + Netlify CMS, which both make this easier than it probably ought to be.",
   "url": "https://samsilver.dev",
   "authorEmail": "sasilver0051@gmail.com",
   "authorHandle": "@revlismas",
