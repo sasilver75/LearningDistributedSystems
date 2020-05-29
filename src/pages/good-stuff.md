@@ -26,8 +26,9 @@ I thought it would be useful to have a singular place to collate recommendations
 
 ## Courses
 
-* CMU Intro Database Systems
-* MIT Distributed Systems
+* [CMU Intro Database Systems](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+* [MIT Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+* [UW Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
 ## **Posts**
 
@@ -35,7 +36,7 @@ I thought it would be useful to have a singular place to collate recommendations
 
 ## **Papers**
 
-*  ...
+* ...
 
 ## **People**
 
