@@ -30,9 +30,19 @@ I thought it would be useful to have a singular place to collate recommendations
 * [MIT Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 * [UW Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
-## **Posts**
+## **Blogs/Posts**
 
 * [Paper Trail Reading List](https://www.the-paper-trail.org/page/reading-list/)
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
+* [Distributed Systems Theory for the Distributed Systems Engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [High Scalability](http://highscalability.com/)
+* [Dancres Reading List](http://dancres.github.io/Pages/)
+* [Christopher Meiklejohn Reading List](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+* [MIT DSRG Reading List](http://dsrg.pdos.csail.mit.edu/papers/)
+* [Backendology Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
+* [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+* [Aphyr's Distributed Systems Syllabus](https://github.com/aphyr/distsys-class)
 
 ## **Papers**
 
