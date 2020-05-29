@@ -6,7 +6,7 @@ socialImage: ""
 ---
 Feel free to contact me for *any reason whatsoever*. If you have a question or correction about something I've written, bring it on! If you're a curious enough person to find yourself on this page, I'm sure we'll hit it off.
 
-![](/images/img_0200-1-.jpeg)
+
 
 Contact me at any of the following:
 
