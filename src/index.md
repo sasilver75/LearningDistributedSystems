@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Learning Distributed Systems
+title: "Computers: Not Bad."
 metaTitle: ""
 metaDesc: ""
-postsHeading: Latest posts
+postsHeading: Latest Posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
