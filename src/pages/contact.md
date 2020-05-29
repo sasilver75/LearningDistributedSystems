@@ -1,9 +1,15 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Contact
+permalink: /contact/index.html
+socialImage: ""
 ---
+Feel free to contact me for *any reason whatsoever*. If you have a question or correction about something I've written, bring it on! If you're a curious enough person to find yourself on this page, I'm sure we'll hit it off.
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+![](/images/img_0200-1-.jpeg)
 
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+Contact me at any of the following:
+
+sasilver0051@gmail.com\
+<https://www.linkedin.com/in/samuel-silver/>\
+<https://twitter.com/revlismas>
