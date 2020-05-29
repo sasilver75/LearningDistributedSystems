@@ -23,6 +23,7 @@ I thought it would be useful to have a singular place to collate recommendations
 * [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 * [Streaming Audio](https://confluent.buzzsprout.com/)
+* [rxin DB Papers](https://github.com/rxin/db-readings)
 
 ## Courses
 
