@@ -23,7 +23,7 @@ I thought it would be useful to have a singular place to collate recommendations
 * [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 * [Streaming Audio](https://confluent.buzzsprout.com/)
-* [rxin DB Papers](https://github.com/rxin/db-readings)
+* [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/tag/podcast/)
 
 ## Courses
 
@@ -45,8 +45,9 @@ I thought it would be useful to have a singular place to collate recommendations
 * [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [Aphyr's Distributed Systems Syllabus](https://github.com/aphyr/distsys-class)
 * [Quora: Seminal DS Papers](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
+* [Rxin DB Readings](https://github.com/rxin/db-readings)
 
-## **Papers**
+## **[](https://github.com/rxin/db-readings)Papers**
 
 * ...
 
