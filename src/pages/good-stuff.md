@@ -27,6 +27,7 @@ I thought it would be useful to have a singular place to collate recommendations
 
 ## Courses
 
+* [UCB Intro Database Systems](https://www.youtube.com/watch?v=j-iq40QBJy8&list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge&index=1)
 * [CMU Intro Database Systems](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 * [UCSC Distributed Systems](https://www.youtube.com/watch?v=G0wpsacaYpE&list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
 * [MIT Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
