@@ -28,6 +28,7 @@ I thought it would be useful to have a singular place to collate recommendations
 ## Courses
 
 * [CMU Intro Database Systems](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+* [UCSC Distributed Systems](https://www.youtube.com/watch?v=G0wpsacaYpE&list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
 * [MIT Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 * [UW Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
@@ -47,7 +48,7 @@ I thought it would be useful to have a singular place to collate recommendations
 * [Quora: Seminal DS Papers](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
 * [Rxin DB Readings](https://github.com/rxin/db-readings)
 
-## **[](https://github.com/rxin/db-readings)Papers**
+## [](https://github.com/rxin/db-readings)**Papers**
 
 * ...
 
