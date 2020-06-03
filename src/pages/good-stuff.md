@@ -14,7 +14,7 @@ I thought it would be useful to have a singular place to collate recommendations
 * [Release It!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B079YWMY2V)
 * [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont-ebook/dp/B00ZPS4KI0)
 
-## **Podcasts (I use [OverCast](https://overcast.fm/))**
+## **Podcasts**
 
 * [CaSE: Conversations about Software Engineering](https://www.case-podcast.org/)
 * [The Cloudcast](https://www.thecloudcast.net/)
